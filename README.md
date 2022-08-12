@@ -1,9 +1,8 @@
-- 👋 ola meu nome é @hanaavieira
-- 
-- 👀 eu estou interresada em aprender a programar novas linguagens
-- 🌱 eu estou aprendendo a programar novas linguagem de JavaScript e Scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Ola meu nome é @hanaavieira
+- :+1:Meu email de contato é diohana.vieira@escola.pr.gov.br
+- 👀 Eu estou interresada em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar novas linguagem de JavaScript e Scratch
+
 
 <!---
 hanaavieira/hanaavieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
