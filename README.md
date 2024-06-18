@@ -1,4 +1,4 @@
-- 👋 Ola meu nome é @hanaavieira
+- 👋 Ola meu nome é @diohanaavieira
 - :+1:Meu email de contato é diohana.vieira@escola.pr.gov.br
 - 👀 Eu estou interresada em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar novas linguagem de JavaScript e Scratch
